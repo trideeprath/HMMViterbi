@@ -1,6 +1,7 @@
 # Part Of Speech Tagger Implementation
 Implementation of a Part Of Speech Tagger based on Hidden Markov Model and Viterbi Algorithm.
 Uses machine learning on the training set to predict the POS of the new sentences.
+
 Accuracy = 91 %
 
 ## Parts of Speech tags
@@ -38,8 +39,11 @@ W wh -word (question word)
 (Corpus Link)[https://www.cs.jhu.edu/~jason/465/hw-hmm/hw-hmm.pdf]
 
 ## Predictions
-Input sentence: It is the right-wing guerrillas who are with the traffickers, not the left wing.
-Output:
+###Input sentence: 
+It is the right-wing guerrillas who are with the traffickers, not the left wing.
+
+###Output:
+
 It/P
 is/V
 the/D
