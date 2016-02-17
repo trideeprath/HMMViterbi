@@ -5,19 +5,33 @@ Accuracy = 91 %
 
 ## Parts of Speech tags
 C Coordinating conjunction or Cardinal number
+
 D Determiner
+
 E Existential there
+
 F Foreign word
+
 I Preposition or subordinating conjunction
+
 J Adjective
+
 M Modal (could, would, must, can, might . . .)
+
 N Noun
+
 P Pronoun or Possessive ending Predeterminer
+
 R Adverb or Particle
+
 S Symbol, mathematical (rare)
+
 T The word
+
 U Interjection (rare)
+
 V Verb
+
 W wh -word (question word)
 
 ## Training is done over 10,000 sentences.
