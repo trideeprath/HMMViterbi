@@ -36,7 +36,7 @@ V Verb
 W wh -word (question word)
 
 ## Training is done over 10,000 sentences.
-(Corpus Link)[https://www.cs.jhu.edu/~jason/465/hw-hmm/hw-hmm.pdf]
+(Corpus Link)[http://www.cs.jhu.edu/~jason/465/hw-hmm/data/entrain]
 
 ###Input sentence: 
 It is the right-wing guerrillas who are with the traffickers, not the left wing.
